@@ -1,0 +1,4 @@
+echo "source ~/.kubectlrc" >> ~/.zshrc
+echo "source ~/.kubectlrc" >> ~/.bashrc
+
+sudo apt install -y fzf
